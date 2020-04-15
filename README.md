@@ -3,7 +3,7 @@ A simple minesweeper game.
 Same with the other minesweeper games but without the middle button functionality.
 Enjoy!
 
-Working game link: http://mygame.likesyou.org/games/minesweeper/
+Demo Link: https://letumfalx.github.io/Minesweeper/index.html
 
 Controls:
 
